@@ -4,42 +4,51 @@ Hello this is my homeworks and exercise from modules Java OOP in Softuni
 
 
 
-      Java OOP - october 2022
+      <b>Java OOP - october 2022<b/>
   
-      1. 
+      1. Working with Abstraction
   
-             1.2 
+             1.2 Exercise: Working with Abstraction
   
-    2. 
+    2. Encapsulation
     
-             2.2 
+             2.2 Exercise: Encapsulation
   
-    3. 
+    3. Inheritance
   
-             3.2 
+             3.2 Exercise: Inheritance
         
-    4.
+    4. Interfaces and Abstraction
   
-             4.2 
+             4.2 Exercise: Interfaces and Abstraction
   
-    5. 
+    5. Polymorphism
   
-             5.2
+             5.2 Exercise: Polymorphism
       
-    6. 
+    6. SOLID
   
-             6.2 
+             6.2 Exercise: SOLID
   
-    7. 
+    7. Reflection and Annotation
   
-             7.2 
+             7.2 Exercise: Reflection and Annotation
         
-    8. 
-  
-             8.2 
+    8. Exceptions and Error Handling
         
-    9. 
-  
-             9.2 
+    9. Debugging Techniques
         
-    10. 
+    10. Unit Testing
+    
+            10.2 Exercise: Unit Testing
+    
+    11. Test Driven Development
+  
+             11.2 Exercise: Test Driven Development
+             
+    12. Design Patterns
+  
+             12.2 Exercise: Design Patterns
+  
+    12. Exam Preparation
+   
