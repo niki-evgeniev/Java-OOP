@@ -4,7 +4,7 @@ Hello this is my homeworks and exercise from modules Java OOP in Softuni
 
 
 
-      # Java OOP - october 2022
+      Java OOP - october 2022
   
       1. Working with Abstraction
   
