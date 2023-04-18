@@ -1,0 +1,6 @@
+test 5 -     public void reserve(int numberOfPeople) {
+        setNumberOfPeople(numberOfPeople);
+       // this.numberOfPeople = numberOfPeople;
+        isReserved = true;
+    }
+test 10 = totalSum
